@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("This is a demo program.\n");
+	printf("This is a demo program!!\n");
 	return 0;
 }
